@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        echo "Hello via webhook4"
+        echo "Hello via webhook5"
       }
     }
   }
